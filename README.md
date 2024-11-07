@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+What are in my repo?
+| Catagory | Description |
+|:---:| :---|
+|**WORK** | Industrial Use Related, or from my work experiences|
+| | 1. CodeingStandard |
+| | 2. FreeModbus|
+|**STUDY** | Academic related, or when I was studying something |
+|**PLAY** | Just for fun, projects I do for my interest |
+
 <!--
 **ArthurQiangLi/arthurqiangli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
