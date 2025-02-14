@@ -26,6 +26,7 @@ Two main catagories, 'Study' repos mainly focus on gainning skill and my study n
 | [S06_Control_Theory](https://github.com/ArthurQiangLi/S06_Control_Theory.git)       | Knowledge about most used control engineering theories     |
 | [S08_TCPIP_Lwip_EtherCat](https://github.com/ArthurQiangLi/S08_TCPIP_Lwip_EtherCat) | Knowledge and tools about embedded ethernet interface      |
 | [S14_CAN_CANopen](https://github.com/ArthurQiangLi/S14_CAN_CANopen)                 | Study of using CAN bus and CANopen protocol                |
+| [S18_TouchGFX](https://github.com/ArthurQiangLi/S18_TouchGFX.git)                   | Steps to bring up TouchGFX                                 |
 
 <!--
 **ArthurQiangLi/arthurqiangli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
