@@ -27,6 +27,7 @@ Two main catagories, 'Study' repos mainly focus on gainning skill and my study n
 | [S08_TCPIP_Lwip_EtherCat](https://github.com/ArthurQiangLi/S08_TCPIP_Lwip_EtherCat) | Knowledge and tools about embedded ethernet interface      |
 | [S14_CAN_CANopen](https://github.com/ArthurQiangLi/S14_CAN_CANopen)                 | Study of using CAN bus and CANopen protocol                |
 | [S18_TouchGFX](https://github.com/ArthurQiangLi/S18_TouchGFX.git)                   | Steps to bring up TouchGFX                                 |
+|[S19_Nextjs_Blog_Website ✅](https://github.com/ArthurQiangLi/S19_Nextjs_Blog_Website)| A skeloton project for building a clean, 3-page personal blog website using Next.js. |
 
 <!--
 **ArthurQiangLi/arthurqiangli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
