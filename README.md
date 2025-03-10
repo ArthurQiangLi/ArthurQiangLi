@@ -13,6 +13,9 @@ Two main catagories, 'Study' repos mainly focus on gainning skill and my study n
 | [W02_FreeModbus_v2b]()                                                         | I rewrited the FreeModbus lib in 2015                       |
 | [W17_FreeModbusTool](https://github.com/ArthurQiangLi/W17_FreeModbusTool)      | A free tool for modbus for serial(rtu&ascii) and eth ports. |
 | [W13_SerialPlotWeb](https://github.com/ArthurQiangLi/W13_SerialPlotWeb)        | Serial plot tool on a webpage                               |
+| [W21_USB_IAP ✅](https://github.com/ArthurQiangLi/W21_USB_IAP) | Update the system easily using a USB drive in a plug-and-play manner. | 
+
+
 
 | Study Repos (Named as 'S03_xxx')                                                    | Notes                                                      |
 | :---------------------------------------------------------------------------------- | :--------------------------------------------------------- |
