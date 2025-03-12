@@ -10,7 +10,7 @@ Two main catagories, 'Study' repos mainly focus on gainning skill and my study n
 | [W01_Coding Standard ⏳](https://github.com/ArthurQiangLi/W01_Coding_Standard) | The coding standard I use                                              |
 | [W16_Pi_Dashboard ✅](https://github.com/ArthurQiangLi/W16_PiDashboard)        | A sun ruler + weather dashboard (Flask + pure html)                    |
 | [W10_UWFE_Dashboard]()                                                         | A Dashboard UI for UWFE race cars                                      |
-| [W02_FreeModbus_v2b](https://github.com/ArthurQiangLi/W02_FreeModbus_v2b)      | I rewrote the FreeModbus library in 2015, adding multi-master support. |
+| [W02_FreeModbus_v2b ✅](https://github.com/ArthurQiangLi/W02_FreeModbus_v2b)      | I rewrote the FreeModbus library in 2015, adding multi-master support. |
 | [W17_FreeModbusTool](https://github.com/ArthurQiangLi/W17_FreeModbusTool)      | A free tool for modbus for serial(rtu&ascii) and eth ports.            |
 | [W13_SerialPlotWeb](https://github.com/ArthurQiangLi/W13_SerialPlotWeb)        | Serial plot tool on a webpage                                          |
 | [W21_USB_IAP ✅](https://github.com/ArthurQiangLi/W21_USB_IAP)                 | Update the system easily using a USB drive in a plug-and-play manner.  |
