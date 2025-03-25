@@ -27,7 +27,7 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
 
 1. [`W01_Coding Standard` ⏳](https://github.com/ArthurQiangLi/W01_Coding_Standard) |The coding standard I use
 2. [`W23_Dev_Environment`](https://github.com/ArthurQiangLi/W23_Dev_Environment) | Materials for building development environment
-3. [S22_Embedded_Cpp](https://github.com/ArthurQiangLi/S22_Embedded_Cpp) | Keypad.cpp and led.cpp to showcase Embedded Cpp usage
+3. [`S22_Embedded_Cpp`](https://github.com/ArthurQiangLi/S22_Embedded_Cpp) | Keypad.cpp and led.cpp to showcase Embedded Cpp usage
 4. [`S15_VSCode`](https://github.com/ArthurQiangLi/S15_VSCode) | Notes for using vscode efficently
 5. [`S20_Industrial_Standards`](https://github.com/ArthurQiangLi/S20_Industrial_Standards) | Industrial standards 'distillation' for a quick review
 6. [`S07_Python` ⏳](https://github.com/ArthurQiangLi/S07_Python) | Notes, memos, and quick examples for python usage.
