@@ -14,7 +14,8 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
 5. [`W02_FreeModbus_v2b` ✅](https://github.com/ArthurQiangLi/W02_FreeModbus_v2b) | I rewrote the FreeModbus library in 2015, adding multi-master support.
 6. [`W17_FreeModbusTool`](https://github.com/ArthurQiangLi/W17_FreeModbusTool) | A free tool for modbus for serial(rtu&ascii) and eth ports.
 7. [`W21_USB_IAP` ✅](https://github.com/ArthurQiangLi/W21_USB_IAP) | Update the system easily using a USB drive in a plug-and-play manner.
-8. [`W22_SmartRoom`]()
+8. [`W22_SmartRoom` 🚩🐶]()
+9. [`W23_3D_Printing` ⏳](https://github.com/ArthurQiangLi/W23_3D_Printing.git)
 
 ## 2. Embedded Engineering
 
