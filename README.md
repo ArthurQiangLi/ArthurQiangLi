@@ -15,7 +15,11 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
 6. [`W17_FreeModbusTool`](https://github.com/ArthurQiangLi/W17_FreeModbusTool) | A free tool for modbus for serial(rtu&ascii) and eth ports.
 7. [`W21_USB_IAP` ✅](https://github.com/ArthurQiangLi/W21_USB_IAP) | Update the system easily using a USB drive in a plug-and-play manner.
 8. [`W22_SmartRoom` 🚩🐶]()
-9. [`W23_3D_Printing` ⏳](https://github.com/ArthurQiangLi/W23_3D_Printing.git)
+2. [`W23_Dev_Environment`](https://github.com/ArthurQiangLi/W23_Dev_Environment) | Materials for building development environment
+1. [`W01_Coding Standard` ⏳](https://github.com/ArthurQiangLi/W01_Coding_Standard) |The coding standard I use
+
+### 1.1 Play
+10. [`P24_3D_Printing` ⏳](https://github.com/ArthurQiangLi/P24_3D_Printing)
 
 ## 2. Embedded Engineering
 
@@ -27,8 +31,6 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
 
 ## 3. Languages and Coding
 
-1. [`W01_Coding Standard` ⏳](https://github.com/ArthurQiangLi/W01_Coding_Standard) |The coding standard I use
-2. [`W23_Dev_Environment`](https://github.com/ArthurQiangLi/W23_Dev_Environment) | Materials for building development environment
 3. [`S22_Embedded_Cpp`](https://github.com/ArthurQiangLi/S22_Embedded_Cpp) | Keypad.cpp and led.cpp to showcase Embedded Cpp usage
 4. [`S15_VSCode`](https://github.com/ArthurQiangLi/S15_VSCode) | Notes for using vscode efficently
 5. [`S20_Industrial_Standards`](https://github.com/ArthurQiangLi/S20_Industrial_Standards) | Industrial standards 'distillation' for a quick review
