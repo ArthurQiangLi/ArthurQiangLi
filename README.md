@@ -17,6 +17,7 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
 8. [`W22_SmartRoom` 🚩🐶]()
 2. [`W23_Dev_Environment`](https://github.com/ArthurQiangLi/W23_Dev_Environment) | Materials for building development environment
 1. [`W01_Coding Standard` ⏳](https://github.com/ArthurQiangLi/W01_Coding_Standard) |The coding standard I use
+2. Modules: [`W80_FSM` ✅](https://github.com/ArthurQiangLi/W80_FSM), [`W81_Ringbuf` ✅](https://github.com/ArthurQiangLi/W81_Ringbuf)
 
 ### 1.1 Play
 10. [`P24_3D_Printing` ⏳](https://github.com/ArthurQiangLi/P24_3D_Printing)
