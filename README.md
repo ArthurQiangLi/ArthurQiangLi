@@ -22,6 +22,7 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
  Modules: [`W80_FSM` ✅](https://github.com/ArthurQiangLi/W80_FSM), 
  [`W81_Ringbuf` ✅](https://github.com/ArthurQiangLi/W81_Ringbuf), 
  [`W82_Button`](https://github.com/ArthurQiangLi/W82_Button) 
+ [`W83_PID`](https://github.com/ArthurQiangLi/W83_PID)
 
 ### 1.1 Play
  [`P24_3D_Printing` ⏳](https://github.com/ArthurQiangLi/P24_3D_Printing)
