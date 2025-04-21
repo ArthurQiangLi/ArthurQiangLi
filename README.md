@@ -23,6 +23,7 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
  [`W81_Ringbuf` ✅](https://github.com/ArthurQiangLi/W81_Ringbuf), 
  [`W82_Button`](https://github.com/ArthurQiangLi/W82_Button) 
  [`W83_PID`](https://github.com/ArthurQiangLi/W83_PID)
+ [`W84_Ratelimit`](https://github.com/ArthurQiangLi/W84_Ratelimit)
 
 ### 1.1 Play
  [`P24_3D_Printing` ⏳](https://github.com/ArthurQiangLi/P24_3D_Printing)
