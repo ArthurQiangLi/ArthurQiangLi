@@ -5,31 +5,30 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
 
 > Legends: ✅ = project is completed. ⏳= in progress. **Others**= not worth looking at.
 
-## 1. Projects
-
-- [`W16_Pi_Dashboard✅` ](https://github.com/ArthurQiangLi/W16_PiDashboard)
-- [`S19_Nextjs_Blog_Website✅`](https://github.com/ArthurQiangLi/S19_Nextjs_Blog_Website) 
+## 1. Work/Projects  <!--  The  work I've done -->
+Complete Projects: <br>
+- [`✅W16_Pi_Dashboard` ](https://github.com/ArthurQiangLi/W16_PiDashboard)
+- [`✅S19_Nextjs_Blog_Website`](https://github.com/ArthurQiangLi/S19_Nextjs_Blog_Website) 
 - [`W13_SerialPlotWeb`](https://github.com/ArthurQiangLi/W13_SerialPlotWeb) 
 - [`W10_UWFE_Dashboard`]()
-- [`W02_FreeModbus_v2b✅` ](https://github.com/ArthurQiangLi/W02_FreeModbus_v2b) 
 - [`W17_FreeModbusTool`](https://github.com/ArthurQiangLi/W17_FreeModbusTool) 
-- [`W21_USB_IAP✅` ](https://github.com/ArthurQiangLi/W21_USB_IAP) 
 - [`W22_SmartRoom🐶` ]()
 - [`W30 Weather Station`]()
-
-
+- [`W31_FaceID_based_Eye_Time`](https://github.com/ArthurQiangLi/W31_FaceID_based_Eye_Time)
+- [`⏳P24_3D_Printing`](https://github.com/ArthurQiangLi/P24_3D_Printing)
  
  Module Projects:<br>
-[`W80_FSM✅`](https://github.com/ArthurQiangLi/W80_FSM), 
- [`W81_Ringbuf✅`](https://github.com/ArthurQiangLi/W81_Ringbuf), 
- [`W82_Button`](https://github.com/ArthurQiangLi/W82_Button) 
- [`W83_PID`](https://github.com/ArthurQiangLi/W83_PID)
- [`W84_Ratelimit`](https://github.com/ArthurQiangLi/W84_Ratelimit)
+[`✅W80_FSM`](https://github.com/ArthurQiangLi/W80_FSM), 
+[`✅W81_Ringbuf`](https://github.com/ArthurQiangLi/W81_Ringbuf), 
+[`W82_Button`](https://github.com/ArthurQiangLi/W82_Button) ,
+[`W83_PID`](https://github.com/ArthurQiangLi/W83_PID),
+[`W84_Ratelimit`](https://github.com/ArthurQiangLi/W84_Ratelimit) <br>
+[`✅W02_FreeModbus_v2b` ](https://github.com/ArthurQiangLi/W02_FreeModbus_v2b) ||  
+[`✅W21_USB_IAP` ](https://github.com/ArthurQiangLi/W21_USB_IAP) || [`W32_Controller_Architecture`](https://github.com/ArthurQiangLi/W32_Controller_Architecture)
 
-Hobby Projects:<br>
- [`P24_3D_Printing` ⏳](https://github.com/ArthurQiangLi/P24_3D_Printing)
+ 
 
-## 2. Embedded Engineering
+## 2. Study/Embedded Engineering <!-- I borrow/learn others work -->
 
  [`S03_Embedded_RTOS`](https://github.com/ArthurQiangLi/S03_Embedded_RTOS)<br>
  [`S06_Control_Theory`](https://github.com/ArthurQiangLi/S06_Control_Theory.git) <br>
