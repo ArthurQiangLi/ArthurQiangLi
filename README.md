@@ -6,45 +6,42 @@ Two main catagories, 'Study' (Named as 'S03_xxx') repos mainly focus on gainning
 > Legends: ✅ = project is completed. ⏳= in progress. **Others**= not worth looking at.
 
 ## 1. Work/Projects  <!--  The  work I've done -->
-Complete Projects: <br>
+
 - [`✅W16_Pi_Dashboard` ](https://github.com/ArthurQiangLi/W16_PiDashboard)
 - [`✅S19_Nextjs_Blog_Website`](https://github.com/ArthurQiangLi/S19_Nextjs_Blog_Website) 
 - [`W13_SerialPlotWeb`](https://github.com/ArthurQiangLi/W13_SerialPlotWeb) 
-- [`W10_UWFE_Dashboard`]()
-- [`W17_FreeModbusTool`](https://github.com/ArthurQiangLi/W17_FreeModbusTool) 
-- [`W22_SmartRoom🐶` ]()
-- [`W30 Weather Station`]()
-- [`W31_FaceID_based_Eye_Time`](https://github.com/ArthurQiangLi/W31_FaceID_based_Eye_Time)
+- [`W10_UWFE_Dashboard`🐶]()
+- [`W17_FreeModbusTool`🐶](https://github.com/ArthurQiangLi/W17_FreeModbusTool) 
+- [`W22_SmartRoom`🐶 ]()
+- [`W30 Weather Station`🐶]()
+- [`W31_FaceID_based_Eye_Time`🐶](https://github.com/ArthurQiangLi/W31_FaceID_based_Eye_Time)
 - [`⏳P24_3D_Printing`](https://github.com/ArthurQiangLi/P24_3D_Printing)
  
- Module Projects:<br>
+Module Projects: <br>
 [`✅W80_FSM`](https://github.com/ArthurQiangLi/W80_FSM), 
 [`✅W81_Ringbuf`](https://github.com/ArthurQiangLi/W81_Ringbuf), 
 [`W82_Button`](https://github.com/ArthurQiangLi/W82_Button) ,
 [`W83_PID`](https://github.com/ArthurQiangLi/W83_PID),
-[`W84_Ratelimit`](https://github.com/ArthurQiangLi/W84_Ratelimit) ||
-[`W85 Storage`](https://github.com/ArthurQiangLi/W85_Storage)
-<br>
-[`✅W02_FreeModbus_v2b` ](https://github.com/ArthurQiangLi/W02_FreeModbus_v2b) ||  
-[`✅W21_USB_IAP` ](https://github.com/ArthurQiangLi/W21_USB_IAP) || [`W32_Controller_Architecture`](https://github.com/ArthurQiangLi/W32_Controller_Architecture)
-
+[`W84_Ratelimit`](https://github.com/ArthurQiangLi/W84_Ratelimit)
+[`✅W21_USB_IAP` ](https://github.com/ArthurQiangLi/W21_USB_IAP) 
  
 
+ 
+ 
 ## 2. Study/Embedded Engineering <!-- I borrow/learn others work -->
 
- [`S03_Embedded_RTOS`](https://github.com/ArthurQiangLi/S03_Embedded_RTOS)<br>
- [`S06_Control_Theory`](https://github.com/ArthurQiangLi/S06_Control_Theory.git) <br>
- [`S08_TCPIP_Lwip_EtherCat`](https://github.com/ArthurQiangLi/S08_TCPIP_Lwip_EtherCat) 
- [`S14_CAN_CANopen`](https://github.com/ArthurQiangLi/S14_CAN_CANopen) <br>
- [`S18_TouchGFX`](https://github.com/ArthurQiangLi/S18_TouchGFX.git) 
+| Cat. |Repos |
+|:---|:---|
+|**Languages**|[`S22_Embedded_Cpp`](https://github.com/ArthurQiangLi/S22_Embedded_Cpp) , [`S07_Python`](https://github.com/ArthurQiangLi/S07_Python) ,   [`S05_JavaScript`](https://github.com/ArthurQiangLi/S05_JavaScript) , [`S04_Markdown_Latex`](https://github.com/ArthurQiangLi/S04_Markdown_Latex.git)  , [`S11_Website(html, css)` ](https://github.com/ArthurQiangLi/S11_Website)|
+|**Toolset**|  [`S06_Control_Theory`](https://github.com/ArthurQiangLi/S06_Control_Theory.git) <br>  |
+|**Platform**|  [`S03_Embedded_RTOS`](https://github.com/ArthurQiangLi/S03_Embedded_RTOS)<br> [`W32_Controller_Architecture`](https://github.com/ArthurQiangLi/W32_Controller_Architecture) |
+|**Communication**| [`S08_TCPIP_Lwip_EtherCat`](https://github.com/ArthurQiangLi/S08_TCPIP_Lwip_EtherCat)  , [`S14_CAN_CANopen`](https://github.com/ArthurQiangLi/S14_CAN_CANopen) <br> [`✅W02_FreeModbus_v2b`](https://github.com/ArthurQiangLi/W02_FreeModbus_v2b) |
+|**Storage**| [`W85 Storage`](https://github.com/ArthurQiangLi/W85_Storage) ,  |
+|**GUI**|  [`S18_TouchGFX`](https://github.com/ArthurQiangLi/S18_TouchGFX.git)   |
+|**Environment**|  [`S15_VSCode`](https://github.com/ArthurQiangLi/S15_VSCode) , [`S09_Git`](https://github.com/ArthurQiangLi/S09_Git) , [`W23_Dev_Environment`✅](https://github.com/ArthurQiangLi/W23_Dev_Environment) ,  |
+|**Standards**| [`W01_Coding Standard`](https://github.com/ArthurQiangLi/W01_Coding_Standard) ,  [`S20_Industrial_Standards`](https://github.com/ArthurQiangLi/S20_Industrial_Standards) |
 
-### Languages
-[`S22_Embedded_Cpp`](https://github.com/ArthurQiangLi/S22_Embedded_Cpp) || [`S07_Python`](https://github.com/ArthurQiangLi/S07_Python)  ||   [`S05_JavaScript`](https://github.com/ArthurQiangLi/S05_JavaScript) || [`S04_Markdown_Latex`](https://github.com/ArthurQiangLi/S04_Markdown_Latex.git)  || [`S11_Website(html, css)` ](https://github.com/ArthurQiangLi/S11_Website)
-### Coding 
-[`S15_VSCode`](https://github.com/ArthurQiangLi/S15_VSCode)  ||  [`S09_Git`](https://github.com/ArthurQiangLi/S09_Git)  ||  [`W23_Dev_Environment`](https://github.com/ArthurQiangLi/W23_Dev_Environment)  || [`W01_Coding Standard`](https://github.com/ArthurQiangLi/W01_Coding_Standard) 
-
-### Standards
-[`S20_Industrial_Standards`](https://github.com/ArthurQiangLi/S20_Industrial_Standards) 
+ 
 
 
 <!--
